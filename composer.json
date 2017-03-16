@@ -3,7 +3,8 @@
     "description": "A small package to use jwt with Silex",
     "type": "library",
     "require": {
-        "lcobucci/jwt": "^3.2"
+        "lcobucci/jwt": "3.3",
+        "silex/silex": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "5.7"
